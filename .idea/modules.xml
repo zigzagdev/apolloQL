@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/apolloQL.iml" filepath="$PROJECT_DIR$/.idea/apolloQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apolloql.iml" filepath="$PROJECT_DIR$/.idea/apolloql.iml" />
     </modules>
   </component>
 </project>
