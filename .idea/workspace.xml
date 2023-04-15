@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="406df76a-7cdb-402b-ba99-5f149e99b0ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/src" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
@@ -58,7 +57,7 @@
       <workItem from="1679374106511" duration="516000" />
       <workItem from="1679385348327" duration="483000" />
       <workItem from="1679387112616" duration="509000" />
-      <workItem from="1679387768368" duration="12102000" />
+      <workItem from="1679387768368" duration="14136000" />
     </task>
     <servers />
   </component>
